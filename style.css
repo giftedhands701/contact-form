@@ -1,0 +1,75 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url('images/tiled.jpg');
+  background-size: cover;
+}
+
+header{
+  padding: 10px;
+  background-color: black;
+  color: orange;
+  text-align: center;
+  margin-bottom: 5px;
+  margin-right: 128px;
+}
+
+.services{
+  width: 400px;
+  height: 200px;
+  background-color: #fff;
+  margin: 0 auto;
+}
+
+.move{
+  margin-left: 10px;
+  padding-top: 7px;
+}
+article{
+  background-color: orange;
+  padding: 20px;
+  margin: 20px;
+  line-height:1.5;
+  margin-right: 50px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.contact{
+  margin: 0 auto;
+  background-color: black;
+  width: 400px;
+  height: 300px;
+  color: #fff;
+  margin-top: 10px;
+  padding: 15px 0px;
+  border:  2px solid orange ;
+  border-style: dotted;
+}
+
+.contact-us{
+  color: orange;
+}
+.contact-info{
+margin-left: 7px;
+}
+
+input,label, textarea{
+  display: block;
+}
+
+button{
+  background-color: orange;
+  color: #fff;
+  padding: 7px 30px;
+}
+
+footer{
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  margin-top: 10px;
+}
